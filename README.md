@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ankush471&label=Profile%20views&color=0e75b6&style=flat" alt="ankush471" /> </p>
 
-- 🔭 I’m currently working on [Stroke Prediction](https://www.kaggle.com/code/ankushramlalnaik/stroke-prediction-2022)
+- 🔭 I’m currently working on [Number Plate Detection](https://www.kaggle.com/code/ankushramlalnaik/stroke-prediction-2022)
 
 - 🌱 I’m currently learning **Machine Learning, Neural Networks**
 
