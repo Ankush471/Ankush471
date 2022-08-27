@@ -1,3 +1,4 @@
+![logo](https://github.com/Ankush471/Ankush471/blob/main/cop1.jpg)
 <h1 align="center">Hi 👋, I'm Ankush Naik</h1>
 <h3 align="center">A passionate Data Analyst from India</h3>
 
